@@ -1,0 +1,668 @@
+[2026-06-10 11:32:56] Mulai Color-to-Grayscale Conversion...
+[2026-06-10 11:32:56] Color-to-Grayscale Conversion selesai.
+[2026-06-10 11:33:04] Mulai Binarization...
+[2026-06-10 11:33:04] Binarization selesai.
+[2026-06-10 11:33:07] Mulai Create Dataset Inputs (average)...
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (0)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (1)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (2)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (3)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (4)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (5)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (6)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (7)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (8)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (9)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (10)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (11)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (12)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (13)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (14)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (15)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (16)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (17)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (18)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ca (19)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (0)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (1)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (2)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (3)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (4)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (5)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (6)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (7)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (8)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (9)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (10)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (11)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (12)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (13)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (14)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (15)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (16)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (17)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (18)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ga (19)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (0)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (1)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (2)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (3)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (4)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (5)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (6)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (7)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (8)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (9)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (10)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (11)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (12)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (13)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (14)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (15)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (16)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (17)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (18)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ja (19)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (0)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (1)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (2)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (3)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (4)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (5)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (6)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (7)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (8)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (9)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (10)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (11)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (12)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (13)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (14)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (15)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (16)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (17)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (18)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_ka (19)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (0)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (1)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (2)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (3)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (4)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (5)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (6)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (7)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (8)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (9)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (10)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (11)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (12)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (13)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (14)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (15)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (16)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (17)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (18)_ready.jpg
+[2026-06-10 11:33:07] Gambar hilang: f:\tugas proyek img process\05_GUI_App\output\ready\average\aksun_nga (19)_ready.jpg
+[2026-06-10 11:33:07] Dataset Input disimpan: inputs_100_785.npy
+[2026-06-10 11:33:07] Mulai Create Dataset Labels...
+[2026-06-10 11:33:07] Dataset Labels disimpan: labels_100_6.npy
+[2026-06-10 11:34:11] Mulai Color-to-Grayscale Conversion...
+[2026-06-10 11:34:18] Color-to-Grayscale Conversion selesai.
+[2026-06-10 11:34:44] Mulai Binarization...
+[2026-06-10 11:40:14] Mulai Color-to-Grayscale Conversion...
+[2026-06-10 11:40:27] Color-to-Grayscale Conversion selesai.
+[2026-06-10 11:40:34] Mulai Binarization...
+[2026-06-10 11:42:14] Binarization selesai.
+[2026-06-10 11:42:28] Mulai Resizing (Pooling: average)...
+[2026-06-10 11:47:52] Resizing & Ready generation selesai.
+[2026-06-10 11:48:58] Mulai Create Dataset Inputs (average)...
+[2026-06-10 11:48:58] Dataset Input disimpan: inputs_100_785.npy
+[2026-06-10 11:48:58] Mulai Create Dataset Labels...
+[2026-06-10 11:48:58] Dataset Labels disimpan: labels_100_6.npy
+[2026-06-10 11:49:02] Mulai Randomize Dataset...
+[2026-06-10 11:49:02] Randomize Dataset selesai.
+[2026-06-10 11:49:05] Mulai Training ANN...
+[2026-06-10 11:49:05] Epoch = 1, Accuracy: 20.0%
+[2026-06-10 11:49:05] Epoch = 10, Accuracy: 97.0%
+[2026-06-10 11:49:05] Epoch = 20, Accuracy: 100.0%
+[2026-06-10 11:49:05] Epoch = 30, Accuracy: 100.0%
+[2026-06-10 11:49:05] Epoch = 40, Accuracy: 100.0%
+[2026-06-10 11:49:05] Epoch = 50, Accuracy: 100.0%
+[2026-06-10 11:49:06] Epoch = 60, Accuracy: 100.0%
+[2026-06-10 11:49:06] Epoch = 70, Accuracy: 100.0%
+[2026-06-10 11:49:06] Epoch = 80, Accuracy: 100.0%
+[2026-06-10 11:49:06] Epoch = 90, Accuracy: 100.0%
+[2026-06-10 11:49:06] Epoch = 100, Accuracy: 100.0%
+[2026-06-10 11:49:06] Training ANN Selesai.
+[2026-06-10 12:15:59] Mulai Training ANN...
+[2026-06-10 12:15:59] Epoch = 1, Accuracy: 29.0%
+[2026-06-10 12:15:59] Epoch = 10, Accuracy: 96.0%
+[2026-06-10 12:15:59] Epoch = 20, Accuracy: 99.0%
+[2026-06-10 12:15:59] Epoch = 30, Accuracy: 100.0%
+[2026-06-10 12:15:59] Epoch = 40, Accuracy: 100.0%
+[2026-06-10 12:16:00] Epoch = 50, Accuracy: 100.0%
+[2026-06-10 12:16:00] Epoch = 60, Accuracy: 100.0%
+[2026-06-10 12:16:00] Epoch = 70, Accuracy: 100.0%
+[2026-06-10 12:16:00] Epoch = 80, Accuracy: 100.0%
+[2026-06-10 12:16:00] Epoch = 90, Accuracy: 100.0%
+[2026-06-10 12:16:00] Epoch = 100, Accuracy: 100.0%
+[2026-06-10 12:16:00] Training ANN Selesai.
+[2026-06-10 12:26:28] Mulai Training ANN...
+[2026-06-10 12:26:28] Epoch = 1, Accuracy: 15.0%
+[2026-06-10 12:26:28] Epoch = 10, Accuracy: 94.0%
+[2026-06-10 12:26:28] Epoch = 20, Accuracy: 100.0%
+[2026-06-10 12:26:29] Epoch = 30, Accuracy: 100.0%
+[2026-06-10 12:26:29] Epoch = 40, Accuracy: 100.0%
+[2026-06-10 12:26:29] Epoch = 50, Accuracy: 100.0%
+[2026-06-10 12:26:29] Epoch = 60, Accuracy: 100.0%
+[2026-06-10 12:26:29] Epoch = 70, Accuracy: 100.0%
+[2026-06-10 12:26:29] Epoch = 80, Accuracy: 100.0%
+[2026-06-10 12:26:29] Epoch = 90, Accuracy: 100.0%
+[2026-06-10 12:26:29] Epoch = 100, Accuracy: 100.0%
+[2026-06-10 12:26:29] Training ANN Selesai.
+[2026-06-10 12:35:40] Mulai Color-to-Grayscale Conversion...
+[2026-06-10 12:35:59] Color-to-Grayscale Conversion selesai.
+[2026-06-10 12:36:03] Mulai Binarization...
+[2026-06-10 12:38:12] Binarization selesai.
+[2026-06-10 12:38:18] Mulai Resizing (Pooling: max)...
+[2026-06-10 12:45:39] Resizing & Ready generation selesai.
+[2026-06-10 12:46:48] Mulai Create Dataset Inputs (max)...
+[2026-06-10 12:46:48] Dataset Input disimpan: inputs_100_785.npy
+[2026-06-10 12:46:48] Mulai Create Dataset Labels...
+[2026-06-10 12:46:48] Dataset Labels disimpan: labels_100_6.npy
+[2026-06-10 12:46:51] Mulai Randomize Dataset...
+[2026-06-10 12:46:51] Randomize Dataset selesai.
+[2026-06-10 12:46:54] Mulai Training ANN...
+[2026-06-10 12:46:54] Epoch = 1, Accuracy: 36.0%
+[2026-06-10 12:46:54] Epoch = 10, Accuracy: 96.0%
+[2026-06-10 12:46:54] Epoch = 20, Accuracy: 100.0%
+[2026-06-10 12:46:54] Epoch = 30, Accuracy: 100.0%
+[2026-06-10 12:46:54] Epoch = 40, Accuracy: 100.0%
+[2026-06-10 12:46:54] Epoch = 50, Accuracy: 100.0%
+[2026-06-10 12:46:54] Epoch = 60, Accuracy: 100.0%
+[2026-06-10 12:46:54] Epoch = 70, Accuracy: 100.0%
+[2026-06-10 12:46:54] Epoch = 80, Accuracy: 100.0%
+[2026-06-10 12:46:55] Epoch = 90, Accuracy: 100.0%
+[2026-06-10 12:46:55] Epoch = 100, Accuracy: 100.0%
+[2026-06-10 12:46:55] Training ANN Selesai.
+[2026-06-12 23:10:18] Mulai Color-to-Grayscale Conversion...
+[2026-06-12 23:10:37] Color-to-Grayscale Conversion selesai.
+[2026-06-12 23:17:59] Mulai Color-to-Grayscale Conversion...
+[2026-06-13 07:20:43] Mulai Color-to-Grayscale Conversion...
+[2026-06-13 07:20:52] Mulai Binarization...
+[2026-06-13 07:20:54] Mulai Resizing (Pooling: average)...
+[2026-06-13 07:20:57] Mulai Create Dataset Inputs (average)...
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aquarius (1)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aquarius (2)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aquarius (3)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aquarius (4)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aquarius (5)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aquarius (6)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aquarius (7)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aquarius (8)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aquarius (9)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aquarius (10)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aquarius (11)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aquarius (12)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aquarius (13)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aquarius (14)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aquarius (15)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aquarius (16)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aquarius (17)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aquarius (18)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aquarius (19)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (0)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (1)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (2)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (3)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (4)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (5)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (6)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (7)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (8)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (9)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (10)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (11)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (12)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (13)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (14)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (15)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (16)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (17)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (18)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Aries (19)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (0)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (1)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (2)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (3)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (4)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (5)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (6)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (7)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (8)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (9)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (10)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (11)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (12)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (13)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (14)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (15)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (16)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (17)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (18)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Cancer (19)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (0)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (1)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (2)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (3)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (4)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (5)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (6)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (7)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (8)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (9)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (10)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (11)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (12)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (13)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (14)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (15)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (16)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (17)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (18)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Capricorn (19)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (0)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (1)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (2)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (3)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (4)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (5)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (6)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (7)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (8)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (9)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (10)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (11)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (12)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (13)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (14)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (15)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (16)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (17)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (18)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Gemini (19)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (0)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (1)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (2)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (3)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (4)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (5)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (6)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (7)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (8)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (9)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (10)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (11)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (12)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (13)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (14)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (15)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (16)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (17)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (18)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Leo (19)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (0)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (1)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (2)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (3)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (4)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (5)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (6)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (7)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (8)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (9)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (10)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (11)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (12)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (13)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (14)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (15)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (16)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (17)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (18)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Libra (19)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (0)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (1)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (2)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (3)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (4)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (5)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (6)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (7)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (8)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (9)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (10)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (11)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (12)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (13)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (14)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (15)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (16)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (17)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (18)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Pisces (19)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (0)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (1)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (2)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (3)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (4)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (5)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (6)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (7)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (8)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (9)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (10)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (11)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (12)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (13)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (14)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (15)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (16)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (17)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (18)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Sagitarius (19)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (0)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (1)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (2)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (3)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (4)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (5)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (6)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (7)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (8)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (9)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (10)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (11)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (12)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (13)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (14)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (15)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (16)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (17)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (18)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Scorpio (19)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (0)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (1)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (2)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (3)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (4)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (5)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (6)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (7)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (8)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (9)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (10)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (11)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (12)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (13)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (14)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (15)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (16)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (17)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (18)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Taurus (19)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (0)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (1)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (2)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (3)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (4)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (5)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (6)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (7)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (8)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (9)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (10)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (11)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (12)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (13)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (14)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (15)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (16)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (17)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (18)_ready.jpg
+[2026-06-13 07:20:57] Gambar hilang: D:\tugas proyek img process\05_GUI_App\output\ready\average\Virgo (19)_ready.jpg
+[2026-06-13 07:20:57] Dataset Input disimpan: inputs_240_785.npy
+[2026-06-13 07:20:57] Mulai Create Dataset Labels...
+[2026-06-13 07:20:57] Dataset Labels disimpan: labels_240_13.npy
+[2026-06-13 07:21:02] Mulai Randomize Dataset...
+[2026-06-13 07:21:02] Randomize Dataset selesai.
+[2026-06-13 07:21:07] Mulai Color-to-Grayscale Conversion...
+[2026-06-13 07:21:07] Mulai Color-to-Grayscale Conversion...
+[2026-06-13 07:21:07] Mulai Color-to-Grayscale Conversion...
+[2026-06-13 07:21:08] Mulai Color-to-Grayscale Conversion...
+[2026-06-13 07:21:52] Color-to-Grayscale Conversion selesai.
+[2026-06-13 07:22:39] Color-to-Grayscale Conversion selesai.
+[2026-06-13 07:39:38] System initialized. Ready for operations.
+[2026-06-13 07:39:46] Starting batch color-to-grayscale conversion...
+[2026-06-13 07:40:02] Grayscale conversion completed: 240/240 processed successfully.
+[2026-06-13 07:40:15] System initialized. Ready for operations.
+[2026-06-13 07:43:02] Starting batch color-to-grayscale conversion...
+[2026-06-13 07:43:16] Grayscale conversion completed: 240/240 processed successfully.
+[2026-06-13 07:43:41] System initialized. Ready for operations.
+[2026-06-13 07:43:57] Starting batch color-to-grayscale conversion...
+[2026-06-13 07:44:12] Grayscale conversion completed: 240/240 processed successfully.
+[2026-06-13 07:44:19] Starting batch image binarization...
+[2026-06-13 07:47:56] System initialized. Ready for operations.
+[2026-06-13 07:47:56] Starting batch color-to-grayscale conversion...
+[2026-06-13 07:48:12] Grayscale conversion completed: 240/240 processed successfully.
+[2026-06-13 07:48:12] Starting batch image binarization...
+[2026-06-13 07:48:59] System initialized. Ready for operations.
+[2026-06-13 07:48:59] Starting batch color-to-grayscale conversion...
+[2026-06-13 07:49:16] Grayscale conversion completed: 240/240 processed successfully.
+[2026-06-13 07:49:16] Starting batch image binarization...
+[2026-06-13 07:49:38] Binarization completed: 240/240 processed.
+[2026-06-13 07:49:38] Starting batch resizing using average pooling (28x28)...
+[2026-06-13 07:49:57] Resizing and down-pooling completed: 240/240 processed.
+[2026-06-13 07:49:57] Starting batch resizing using max pooling (28x28)...
+[2026-06-13 07:50:11] Resizing and down-pooling completed: 240/240 processed.
+[2026-06-13 07:50:11] Compiling inputs and labels datasets...
+[2026-06-13 07:50:12] Input dataset saved: inputs_240_785.npy
+[2026-06-13 07:50:12] Label dataset saved: labels_240_13.npy
+[2026-06-13 07:50:12] Applying randomized index mapping...
+[2026-06-13 07:50:12] Randomized dataset files created successfully.
+[2026-06-13 07:50:12] Starting NumPy Artificial Neural Network training...
+[2026-06-13 07:50:12] Epoch 001/100: Loss = 1.0448 | Accuracy = 46.25%
+[2026-06-13 07:50:13] Epoch 010/100: Loss = 0.1666 | Accuracy = 100.00%
+[2026-06-13 07:50:13] Epoch 020/100: Loss = 0.0359 | Accuracy = 100.00%
+[2026-06-13 07:50:14] Epoch 030/100: Loss = 0.0137 | Accuracy = 100.00%
+[2026-06-13 07:50:14] Epoch 040/100: Loss = 0.0070 | Accuracy = 100.00%
+[2026-06-13 07:50:15] Epoch 050/100: Loss = 0.0042 | Accuracy = 100.00%
+[2026-06-13 07:50:15] Epoch 060/100: Loss = 0.0028 | Accuracy = 100.00%
+[2026-06-13 07:50:16] Epoch 070/100: Loss = 0.0020 | Accuracy = 100.00%
+[2026-06-13 07:50:16] Epoch 080/100: Loss = 0.0015 | Accuracy = 100.00%
+[2026-06-13 07:50:17] Epoch 090/100: Loss = 0.0011 | Accuracy = 100.00%
+[2026-06-13 07:50:17] Epoch 100/100: Loss = 0.0009 | Accuracy = 100.00%
+[2026-06-13 07:50:17] ANN training completed successfully. Final Insample Accuracy: 100.00%
+[2026-06-13 07:50:17] ANN Test Index 15 -> True Class: Sagitarius | Predicted Class: Sagitarius
+[2026-06-13 07:56:31] System initialized. Ready for operations.
+[2026-06-13 07:56:34] Starting batch color-to-grayscale conversion...
+[2026-06-13 07:56:50] Grayscale conversion completed: 240/240 processed successfully.
+[2026-06-13 07:57:00] Starting batch image binarization...
+[2026-06-13 07:57:21] Binarization completed: 240/240 processed.
+[2026-06-13 07:57:30] Starting batch resizing using average pooling (28x28)...
+[2026-06-13 07:57:46] Resizing and down-pooling completed: 240/240 processed.
+[2026-06-13 07:57:52] Starting batch resizing using max pooling (28x28)...
+[2026-06-13 07:58:04] Resizing and down-pooling completed: 240/240 processed.
+[2026-06-13 07:58:10] Compiling inputs and labels datasets...
+[2026-06-13 07:58:11] Input dataset saved: inputs_240_785.npy
+[2026-06-13 07:58:11] Label dataset saved: labels_240_13.npy
+[2026-06-13 07:58:16] Applying randomized index mapping...
+[2026-06-13 07:58:16] Randomized dataset files created successfully.
+[2026-06-13 07:58:21] Applying randomized index mapping...
+[2026-06-13 07:58:21] Randomized dataset files created successfully.
+[2026-06-13 07:58:26] Starting NumPy Artificial Neural Network training...
+[2026-06-13 07:58:27] Epoch 001/100: Loss = 1.2539 | Accuracy = 38.33%
+[2026-06-13 07:58:27] Epoch 010/100: Loss = 0.1481 | Accuracy = 100.00%
+[2026-06-13 07:58:27] Epoch 020/100: Loss = 0.0366 | Accuracy = 100.00%
+[2026-06-13 07:58:28] Epoch 030/100: Loss = 0.0155 | Accuracy = 100.00%
+[2026-06-13 07:58:28] Epoch 040/100: Loss = 0.0084 | Accuracy = 100.00%
+[2026-06-13 07:58:29] Epoch 050/100: Loss = 0.0052 | Accuracy = 100.00%
+[2026-06-13 07:58:29] Epoch 060/100: Loss = 0.0036 | Accuracy = 100.00%
+[2026-06-13 07:58:30] Epoch 070/100: Loss = 0.0026 | Accuracy = 100.00%
+[2026-06-13 07:58:30] Epoch 080/100: Loss = 0.0019 | Accuracy = 100.00%
+[2026-06-13 07:58:31] Epoch 090/100: Loss = 0.0015 | Accuracy = 100.00%
+[2026-06-13 07:58:31] Epoch 100/100: Loss = 0.0012 | Accuracy = 100.00%
+[2026-06-13 07:58:32] ANN training completed successfully. Final Insample Accuracy: 100.00%
+[2026-06-13 07:58:39] ANN Test Index 0 -> True Class: Sagitarius | Predicted Class: Sagitarius
+[2026-06-13 07:58:54] ANN Test Index 0 -> True Class: Sagitarius | Predicted Class: Sagitarius
+[2026-06-13 07:59:00] ANN Test Index 3 -> True Class: Taurus | Predicted Class: Taurus
+[2026-06-13 07:59:07] ANN Test Index 5 -> True Class: Capricorn | Predicted Class: Capricorn
+[2026-06-13 07:59:13] ANN Test Index 9 -> True Class: Gemini | Predicted Class: Gemini
+[2026-06-13 08:01:37] System initialized. Ready for operations.
+[2026-06-13 08:02:06] Selected custom image: Aquarius.jpeg
+[2026-06-13 08:02:06] Custom Image Prediction: Aquarius (Confidence: 86.83%)
+[2026-06-13 08:02:23] Selected custom image: Gemini.jpeg
+[2026-06-13 08:02:23] Custom Image Prediction: Gemini (Confidence: 95.35%)
+[2026-06-13 08:02:29] Selected custom image: Libra.jpeg
+[2026-06-13 08:02:29] Custom Image Prediction: Libra (Confidence: 92.86%)
+[2026-06-13 08:02:38] Selected custom image: Libra.jpeg
+[2026-06-13 08:02:38] Custom Image Prediction: Libra (Confidence: 92.86%)
+[2026-06-13 08:02:44] Selected custom image: Virgo.jpeg
+[2026-06-13 08:02:44] Custom Image Prediction: Virgo (Confidence: 28.34%)
+[2026-06-13 08:02:53] Selected custom image: Taurus.jpeg
+[2026-06-13 08:02:53] Custom Image Prediction: Taurus (Confidence: 51.57%)
+[2026-06-13 08:06:03] Selected custom image: Cancer.jpeg
+[2026-06-13 08:06:03] Custom Image Prediction: Cancer (Confidence: 93.63%)
+[2026-06-13 08:21:27] System initialized. Ready for operations.
+[2026-06-13 08:22:24] System initialized. Ready for operations.
+[2026-06-13 13:34:53] System initialized. Ready for operations.
+[2026-06-13 13:34:53] Starting batch color-to-grayscale conversion...
+[2026-06-13 13:35:10] Grayscale conversion completed: 240/240 processed successfully.
+[2026-06-13 13:35:10] Starting batch image binarization...
+[2026-06-13 13:35:31] Binarization completed: 240/240 processed.
+[2026-06-13 13:35:31] Starting batch resizing using average pooling (28x28)...
+[2026-06-13 13:35:49] Resizing and down-pooling completed: 240/240 processed.
+[2026-06-13 13:35:49] Starting batch resizing using max pooling (28x28)...
+[2026-06-13 13:36:12] Resizing and down-pooling completed: 240/240 processed.
+[2026-06-13 13:36:12] Compiling inputs and labels datasets...
+[2026-06-13 13:36:13] Input dataset saved: inputs_240_785.npy
+[2026-06-13 13:36:13] Label dataset saved: labels_240_13.npy
+[2026-06-13 13:36:13] Applying randomized index mapping...
+[2026-06-13 13:36:14] Randomized dataset files created successfully.
+[2026-06-13 13:36:14] Starting NumPy Artificial Neural Network training...
+[2026-06-13 13:36:14] Epoch 001/100: Loss = 1.0454 | Accuracy = 39.58%
+[2026-06-13 13:36:15] Epoch 010/100: Loss = 0.1668 | Accuracy = 100.00%
+[2026-06-13 13:36:15] Epoch 020/100: Loss = 0.0361 | Accuracy = 100.00%
+[2026-06-13 13:36:16] Epoch 030/100: Loss = 0.0138 | Accuracy = 100.00%
+[2026-06-13 13:36:16] Epoch 040/100: Loss = 0.0070 | Accuracy = 100.00%
+[2026-06-13 13:36:17] Epoch 050/100: Loss = 0.0042 | Accuracy = 100.00%
+[2026-06-13 13:36:17] Epoch 060/100: Loss = 0.0028 | Accuracy = 100.00%
+[2026-06-13 13:36:18] Epoch 070/100: Loss = 0.0020 | Accuracy = 100.00%
+[2026-06-13 13:36:18] Epoch 080/100: Loss = 0.0015 | Accuracy = 100.00%
+[2026-06-13 13:36:19] Epoch 090/100: Loss = 0.0011 | Accuracy = 100.00%
+[2026-06-13 13:36:19] Epoch 100/100: Loss = 0.0009 | Accuracy = 100.00%
+[2026-06-13 13:36:19] ANN training completed successfully. Final Insample Accuracy: 100.00%
+[2026-06-13 13:36:20] ANN Test Index 15 -> True Class: Gemini | Predicted Class: Gemini
+[2026-06-13 13:37:47] System initialized. Ready for operations.
+[2026-06-13 13:37:47] Starting batch color-to-grayscale conversion...
+[2026-06-13 13:38:14] Grayscale conversion completed: 240/240 processed successfully.
+[2026-06-13 13:38:14] Starting batch image binarization...
+[2026-06-13 13:38:41] Binarization completed: 240/240 processed.
+[2026-06-13 13:38:41] Starting batch resizing using average pooling (28x28)...
+[2026-06-13 13:38:59] Resizing and down-pooling completed: 240/240 processed.
+[2026-06-13 13:38:59] Starting batch resizing using max pooling (28x28)...
+[2026-06-13 13:39:13] Resizing and down-pooling completed: 240/240 processed.
+[2026-06-13 13:39:14] Compiling inputs and labels datasets...
+[2026-06-13 13:39:14] Input dataset saved: inputs_240_785.npy
+[2026-06-13 13:39:14] Label dataset saved: labels_240_13.npy
+[2026-06-13 13:39:15] Applying randomized index mapping...
+[2026-06-13 13:39:15] Randomized dataset files created successfully.
+[2026-06-13 13:39:15] Starting NumPy Artificial Neural Network training...
+[2026-06-13 13:39:15] Epoch 001/100: Loss = 1.0413 | Accuracy = 42.50%
+[2026-06-13 13:39:16] Epoch 010/100: Loss = 0.1663 | Accuracy = 100.00%
+[2026-06-13 13:39:17] Epoch 020/100: Loss = 0.0360 | Accuracy = 100.00%
+[2026-06-13 13:39:17] Epoch 030/100: Loss = 0.0138 | Accuracy = 100.00%
+[2026-06-13 13:39:18] Epoch 040/100: Loss = 0.0070 | Accuracy = 100.00%
+[2026-06-13 13:39:18] Epoch 050/100: Loss = 0.0042 | Accuracy = 100.00%
+[2026-06-13 13:39:19] Epoch 060/100: Loss = 0.0028 | Accuracy = 100.00%
+[2026-06-13 13:39:20] Epoch 070/100: Loss = 0.0020 | Accuracy = 100.00%
+[2026-06-13 13:39:20] Epoch 080/100: Loss = 0.0015 | Accuracy = 100.00%
+[2026-06-13 13:39:21] Epoch 090/100: Loss = 0.0011 | Accuracy = 100.00%
+[2026-06-13 13:39:21] Epoch 100/100: Loss = 0.0009 | Accuracy = 100.00%
+[2026-06-13 13:39:22] ANN training completed successfully. Final Insample Accuracy: 100.00%
+[2026-06-13 13:39:22] ANN Test Index 15 -> True Class: Aquarius | Predicted Class: Aquarius
+[2026-06-13 13:46:16] System initialized. Ready for operations.
+[2026-06-13 13:46:25] Starting batch color-to-grayscale conversion...
+[2026-06-13 13:46:53] Grayscale conversion completed: 240/240 processed successfully.
+[2026-06-13 14:35:03] Starting batch color-to-grayscale conversion...
+[2026-06-13 14:35:42] Grayscale conversion completed: 240/240 processed successfully.
+[2026-06-13 14:35:49] Starting batch image binarization...
+[2026-06-13 14:36:24] Binarization completed: 240/240 processed.
+[2026-06-13 14:36:43] Starting batch resizing using average pooling (28x28)...
+[2026-06-13 14:37:04] Resizing and down-pooling completed: 240/240 processed.
+[2026-06-13 14:37:24] Compiling inputs and labels datasets...
+[2026-06-13 14:37:24] Input dataset saved: inputs_240_785.npy
+[2026-06-13 14:37:24] Label dataset saved: labels_240_13.npy
+[2026-06-13 14:37:37] Applying randomized index mapping...
+[2026-06-13 14:37:37] Randomized dataset files created successfully.
+[2026-06-13 14:37:46] Starting NumPy Artificial Neural Network training...
+[2026-06-13 14:37:46] Epoch 001/100: Loss = 1.2011 | Accuracy = 30.83%
+[2026-06-13 14:37:47] Epoch 010/100: Loss = 0.1793 | Accuracy = 100.00%
+[2026-06-13 14:37:48] Epoch 020/100: Loss = 0.0414 | Accuracy = 100.00%
+[2026-06-13 14:37:48] Epoch 030/100: Loss = 0.0161 | Accuracy = 100.00%
+[2026-06-13 14:37:49] Epoch 040/100: Loss = 0.0082 | Accuracy = 100.00%
+[2026-06-13 14:37:49] Epoch 050/100: Loss = 0.0049 | Accuracy = 100.00%
+[2026-06-13 14:37:50] Epoch 060/100: Loss = 0.0032 | Accuracy = 100.00%
+[2026-06-13 14:37:51] Epoch 070/100: Loss = 0.0023 | Accuracy = 100.00%
+[2026-06-13 14:37:52] Epoch 080/100: Loss = 0.0017 | Accuracy = 100.00%
+[2026-06-13 14:37:52] Epoch 090/100: Loss = 0.0013 | Accuracy = 100.00%
+[2026-06-13 14:37:53] Epoch 100/100: Loss = 0.0010 | Accuracy = 100.00%
+[2026-06-13 14:37:53] ANN training completed successfully. Final Insample Accuracy: 100.00%
+[2026-06-13 14:38:22] ANN Test Index 2 -> True Class: Cancer | Predicted Class: Cancer
+[2026-06-13 14:38:31] ANN Test Index 3 -> True Class: Taurus | Predicted Class: Taurus
+[2026-06-13 14:38:39] Selected custom image: Aquarius.jpeg
+[2026-06-13 14:38:39] Custom Image Prediction: Aquarius (Confidence: 95.90%)
+[2026-06-13 15:39:07] System initialized. Ready for operations.
+[2026-06-13 15:39:23] Starting batch color-to-grayscale conversion...
+[2026-06-13 15:40:02] Grayscale conversion completed: 240/240 processed successfully.
+[2026-06-13 15:43:30] Starting batch image binarization...
+[2026-06-13 15:44:09] Binarization completed: 240/240 processed.
+[2026-06-13 15:47:31] Starting batch resizing using average pooling (28x28)...
+[2026-06-13 15:47:57] Resizing and down-pooling completed: 240/240 processed.
+[2026-06-13 15:48:03] Starting batch resizing using max pooling (28x28)...
+[2026-06-13 15:48:26] Resizing and down-pooling completed: 240/240 processed.
+[2026-06-13 15:51:14] Compiling inputs and labels datasets...
+[2026-06-13 15:51:16] Input dataset saved: inputs_240_785.npy
+[2026-06-13 15:51:16] Label dataset saved: labels_240_13.npy
+[2026-06-13 15:52:49] Applying randomized index mapping...
+[2026-06-13 15:52:49] Randomized dataset files created successfully.
+[2026-06-13 15:52:53] Applying randomized index mapping...
+[2026-06-13 15:52:53] Randomized dataset files created successfully.
+[2026-06-13 15:53:58] Starting NumPy Artificial Neural Network training...
+[2026-06-13 15:53:58] Epoch 001/100: Loss = 1.2865 | Accuracy = 27.08%
+[2026-06-13 15:53:58] Epoch 010/100: Loss = 0.1232 | Accuracy = 100.00%
+[2026-06-13 15:53:59] Epoch 020/100: Loss = 0.0289 | Accuracy = 100.00%
+[2026-06-13 15:54:00] Epoch 030/100: Loss = 0.0118 | Accuracy = 100.00%
+[2026-06-13 15:54:01] Epoch 040/100: Loss = 0.0062 | Accuracy = 100.00%
+[2026-06-13 15:54:01] Epoch 050/100: Loss = 0.0038 | Accuracy = 100.00%
+[2026-06-13 15:54:02] Epoch 060/100: Loss = 0.0025 | Accuracy = 100.00%
+[2026-06-13 15:54:03] Epoch 070/100: Loss = 0.0018 | Accuracy = 100.00%
+[2026-06-13 15:54:03] Epoch 080/100: Loss = 0.0014 | Accuracy = 100.00%
+[2026-06-13 15:54:04] Epoch 090/100: Loss = 0.0011 | Accuracy = 100.00%
+[2026-06-13 15:54:05] Epoch 100/100: Loss = 0.0008 | Accuracy = 100.00%
+[2026-06-13 15:54:05] ANN training completed successfully. Final Insample Accuracy: 100.00%
+[2026-06-13 15:55:25] ANN Test Index 130 -> True Class: Cancer | Predicted Class: Cancer
+[2026-06-13 15:55:31] ANN Test Index 1 -> True Class: Aries | Predicted Class: Aries
+[2026-06-13 15:55:36] ANN Test Index 15 -> True Class: Sagitarius | Predicted Class: Sagitarius
+[2026-06-13 15:55:42] ANN Test Index 89 -> True Class: Taurus | Predicted Class: Taurus
+[2026-06-13 15:57:01] Selected custom image: Libra.jpeg
+[2026-06-13 15:57:01] Custom Image Prediction: Libra (Confidence: 95.75%)
+[2026-06-13 15:57:09] Selected custom image: Leo.jpeg
+[2026-06-13 15:57:09] Custom Image Prediction: Leo (Confidence: 96.25%)
+[2026-06-13 15:57:16] Selected custom image: Scorpio.jpeg
+[2026-06-13 15:57:16] Custom Image Prediction: Scorpio (Confidence: 97.30%)
+[2026-06-15 09:24:33] System initialized. Ready for operations.
+[2026-06-15 09:45:01] System initialized. Ready for operations.
+[2026-06-15 09:45:12] Compiling inputs and labels datasets...
+[2026-06-15 09:45:13] Input dataset saved: inputs_240_785.npy
+[2026-06-15 09:45:13] Label dataset saved: labels_240_13.npy

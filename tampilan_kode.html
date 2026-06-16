@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>Kelompok F – Image Processing Code</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@400;600;700&display=swap');
+  :root {
+    --bg: #0d1117; --card: #161b22; --border: #30363d;
+    --accent: #58a6ff; --green: #3fb950; --orange: #f0883e;
+    --purple: #bc8cff; --red: #ff7b72; --text: #e6edf3; --muted: #8b949e;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background:var(--bg); color:var(--text); font-family:'Inter',sans-serif; padding:32px; }
+  h1 { text-align:center; font-size:1.6rem; color:var(--accent); margin-bottom:6px; }
+  .subtitle { text-align:center; color:var(--muted); font-size:.85rem; margin-bottom:32px; }
+  .section { background:var(--card); border:1px solid var(--border); border-radius:12px; margin-bottom:28px; overflow:hidden; }
+  .section-header { display:flex; align-items:center; gap:10px; padding:14px 20px; border-bottom:1px solid var(--border); background:#1c2128; }
+  .badge { padding:3px 10px; border-radius:20px; font-size:.72rem; font-weight:700; letter-spacing:.5px; }
+  .badge-blue  { background:#1f4e8c; color:#58a6ff; }
+  .badge-green { background:#1a3d27; color:#3fb950; }
+  .badge-orange{ background:#3d2a10; color:#f0883e; }
+  .badge-purple{ background:#2d1f4e; color:#bc8cff; }
+  .badge-red   { background:#3d1f1f; color:#ff7b72; }
+  .section-title { font-size:1rem; font-weight:700; }
+  pre { padding:20px; overflow-x:auto; font-family:'Fira Code',monospace; font-size:.82rem; line-height:1.7; }
+  .kw  { color:#ff7b72; }   /* keyword */
+  .fn  { color:#d2a8ff; }   /* function */
+  .cm  { color:#8b949e; font-style:italic; } /* comment */
+  .st  { color:#a5d6ff; }   /* string */
+  .nm  { color:#f0883e; }   /* number */
+  .op  { color:#79c0ff; }   /* operator/builtin */
+  .step { display:flex; gap:6px; align-items:baseline; }
+  .ln  { color:#484f58; min-width:2.2em; text-align:right; user-select:none; }
+</style>
+</head>
+<body>
+
+<h1>🖼️ Kelompok F – Image Processing Code</h1>
+<p class="subtitle">Kode Pre-processing | Zodiac Constellation Classifier</p>
+
+<!-- ========== 1. GRAYSCALE ========== -->
+<div class="section">
+  <div class="section-header">
+    <span class="badge badge-blue">01</span>
+    <span class="section-title">Grayscale</span>
+    <span style="color:var(--muted);font-size:.8rem;">— Konversi RGB ke Grayscale (rata-rata R+G+B)</span>
+  </div>
+  <pre><span class="kw">def</span> <span class="fn">grayscale</span>(pic):
+    row, col = pic.shape[<span class="nm">0</span>], pic.shape[<span class="nm">1</span>]
+    pic_gs = np.zeros(shape=(row, col), dtype=np.uint8)
+
+    r = pic[:, :, <span class="nm">0</span>].astype(np.float32)
+    g = pic[:, :, <span class="nm">1</span>].astype(np.float32)
+    b = pic[:, :, <span class="nm">2</span>].astype(np.float32)
+
+    average = (r + g + b) / <span class="nm">3</span>
+    pic_gs[:, :] = average[:, :]
+
+    <span class="kw">return</span> pic_gs</pre>
+</div>
+
+<!-- ========== 2. RESIZING (Down Pooling) ========== -->
+<div class="section">
+  <div class="section-header">
+    <span class="badge badge-green">02</span>
+    <span class="section-title">Resizing (Down Pooling)</span>
+    <span style="color:var(--muted);font-size:.8rem;">— Resize ke 28×28 dengan Average/Max Pooling</span>
+  </div>
+  <pre><span class="cm"># Parameter ukuran target</span>
+m, n = <span class="nm">28</span>, <span class="nm">28</span>   <span class="cm"># ukuran output: 28x28 piksel</span>
+
+<span class="kw">def</span> <span class="fn">down_pooling</span>(pic, m, n, mode_pooling):
+    row_asal, col_asal = pic.shape
+    row_hasil, col_hasil = m, n
+
+    pic_res = np.zeros(shape=(row_hasil, col_hasil), dtype=np.float32)
+
+    <span class="kw">for</span> i_res <span class="kw">in</span> <span class="op">range</span>(<span class="nm">0</span>, row_hasil):
+        <span class="kw">for</span> j_res <span class="kw">in</span> <span class="op">range</span>(<span class="nm">0</span>, col_hasil):
+            r_start = <span class="op">int</span>(i_res * row_asal / row_hasil)
+            r_end   = <span class="op">int</span>((i_res + <span class="nm">1</span>) * row_asal / row_hasil)
+            c_start = <span class="op">int</span>(j_res * col_asal / col_hasil)
+            c_end   = <span class="op">int</span>((j_res + <span class="nm">1</span>) * col_asal / col_hasil)
+
+            <span class="kw">if</span> r_end &lt;= r_start: r_end = r_start + <span class="nm">1</span>
+            <span class="kw">if</span> c_end &lt;= c_start: c_end = c_start + <span class="nm">1</span>
+
+            <span class="kw">if</span> mode_pooling == <span class="st">"average"</span>:
+                counter, jumlah = <span class="nm">0</span>, <span class="nm">0</span>
+                <span class="kw">for</span> k <span class="kw">in</span> <span class="op">range</span>(r_start, r_end):
+                    <span class="kw">for</span> l <span class="kw">in</span> <span class="op">range</span>(c_start, c_end):
+                        jumlah  += <span class="op">int</span>(pic[k, l])
+                        counter += <span class="nm">1</span>
+                pic_res[i_res, j_res] = jumlah / counter
+
+            <span class="kw">if</span> mode_pooling == <span class="st">"max"</span>:
+                nilai_max = <span class="nm">0</span>
+                <span class="kw">for</span> k <span class="kw">in</span> <span class="op">range</span>(r_start, r_end):
+                    <span class="kw">for</span> l <span class="kw">in</span> <span class="op">range</span>(c_start, c_end):
+                        <span class="kw">if</span> pic[k, l] &gt; nilai_max:
+                            nilai_max = pic[k, l]
+                pic_res[i_res, j_res] = nilai_max
+
+    <span class="cm"># Kembalikan ke nilai binary 0 dan 255</span>
+    pic_final = np.zeros(shape=(row_hasil, col_hasil), dtype=np.uint8)
+    <span class="kw">for</span> i <span class="kw">in</span> <span class="op">range</span>(<span class="nm">0</span>, row_hasil):
+        <span class="kw">for</span> j <span class="kw">in</span> <span class="op">range</span>(<span class="nm">0</span>, col_hasil):
+            pic_final[i, j] = <span class="nm">255</span> <span class="kw">if</span> pic_res[i, j] &gt; <span class="nm">0</span> <span class="kw">else</span> <span class="nm">0</span>
+
+    <span class="kw">return</span> pic_final</pre>
+</div>
+
+<!-- ========== 3. BINARIZATION ========== -->
+<div class="section">
+  <div class="section-header">
+    <span class="badge badge-orange">03</span>
+    <span class="section-title">Binarization</span>
+    <span style="color:var(--muted);font-size:.8rem;">— Otsu Threshold + Manual Threshold (th=90)</span>
+  </div>
+  <pre><span class="cm"># Otsu Thresholding (dihitung otomatis dari histogram)</span>
+<span class="kw">def</span> <span class="fn">otsu_threshold</span>(pic_gs):
+    hist = np.zeros(shape=(<span class="nm">256</span>), dtype=np.float64)
+    row, col = pic_gs.shape
+
+    <span class="kw">for</span> i <span class="kw">in</span> <span class="op">range</span>(<span class="nm">0</span>, row):
+        <span class="kw">for</span> j <span class="kw">in</span> <span class="op">range</span>(<span class="nm">0</span>, col):
+            hist[pic_gs[i, j]] += <span class="nm">1</span>
+
+    total     = row * col
+    sum_total = <span class="op">sum</span>(i * hist[i] <span class="kw">for</span> i <span class="kw">in</span> <span class="op">range</span>(<span class="nm">256</span>))
+    sum_bg, w_bg, var_max, th = <span class="nm">0</span>, <span class="nm">0</span>, -<span class="nm">1</span>, <span class="nm">127</span>
+
+    <span class="kw">for</span> i <span class="kw">in</span> <span class="op">range</span>(<span class="nm">256</span>):
+        w_bg += hist[i]
+        <span class="kw">if</span> w_bg == <span class="nm">0</span>: <span class="kw">continue</span>
+        w_fg = total - w_bg
+        <span class="kw">if</span> w_fg == <span class="nm">0</span>: <span class="kw">break</span>
+        sum_bg   += i * hist[i]
+        mean_bg   = sum_bg / w_bg
+        mean_fg   = (sum_total - sum_bg) / w_fg
+        var_between = w_bg * w_fg * ((mean_bg - mean_fg) ** <span class="nm">2</span>)
+        <span class="kw">if</span> var_between &gt; var_max:
+            var_max, th = var_between, i
+    <span class="kw">return</span> th
+
+<span class="cm"># Binarisasi: pilih threshold terkecil (Otsu vs Manual)</span>
+th_manual = <span class="nm">90</span>
+
+<span class="kw">def</span> <span class="fn">binarisasi</span>(pic_gs):
+    th_otsu = otsu_threshold(pic_gs)
+    th = th_manual <span class="kw">if</span> th_otsu &gt; th_manual <span class="kw">else</span> th_otsu
+
+    row, col = pic_gs.shape
+    pic_bin = np.zeros(shape=(row, col), dtype=np.uint8)
+
+    <span class="kw">for</span> i <span class="kw">in</span> <span class="op">range</span>(<span class="nm">0</span>, row):
+        <span class="kw">for</span> j <span class="kw">in</span> <span class="op">range</span>(<span class="nm">0</span>, col):
+            <span class="cm"># Objek = putih (255), background = hitam (0)</span>
+            pic_bin[i, j] = <span class="nm">255</span> <span class="kw">if</span> pic_gs[i, j] &lt; th <span class="kw">else</span> <span class="nm">0</span>
+
+    <span class="kw">return</span> pic_bin, th</pre>
+</div>
+
+<!-- ========== 4. CREATE DATASET ========== -->
+<div class="section">
+  <div class="section-header">
+    <span class="badge badge-purple">04</span>
+    <span class="section-title">Create Dataset</span>
+    <span style="color:var(--muted);font-size:.8rem;">— Buat file .npy dari gambar hasil preprocessing</span>
+  </div>
+  <pre><span class="kw">import</span> numpy <span class="kw">as</span> np
+<span class="kw">import</span> matplotlib.pyplot <span class="kw">as</span> plt
+<span class="kw">import</span> os
+
+mode_pooling = <span class="op">input</span>(<span class="st">"Mode pooling (average/max): "</span>).lower().strip()
+
+dir_in  = os.path.join(<span class="st">r"d:\...\01_ImageProcessing"</span>, mode_pooling)
+dir_out = os.path.join(<span class="st">r"d:\...\02a_Create_Dataset"</span>, mode_pooling)
+os.makedirs(dir_out, exist_ok=<span class="kw">True</span>)
+
+<span class="cm"># Daftar nama kelas (12 kelas zodiak)</span>
+kelas = [<span class="st">"Aquarius ("</span>, <span class="st">"Aries ("</span>, <span class="st">"Cancer ("</span>, <span class="st">"Capricorn ("</span>,
+         <span class="st">"Gemini ("</span>,   <span class="st">"Leo ("</span>,   <span class="st">"Libra ("</span>,  <span class="st">"Pisces ("</span>,
+         <span class="st">"Sagitarius ("</span>, <span class="st">"Scorpio ("</span>, <span class="st">"Taurus ("</span>, <span class="st">"Virgo ("</span>]
+ext = <span class="st">")_ready.jpg"</span>
+
+juml_kelas   = <span class="nm">12</span>
+juml_sampel  = juml_kelas * <span class="nm">10</span>   <span class="cm"># 120 sampel total</span>
+
+<span class="cm"># Baca 1 gambar untuk dapatkan dimensi (28x28)</span>
+pic      = plt.imread(os.path.join(dir_in, kelas[<span class="nm">0</span>] + <span class="st">"0"</span> + ext))
+row, col = pic.shape[<span class="nm">0</span>], pic.shape[<span class="nm">1</span>]
+juml_kolom = row * col + <span class="nm">1</span>        <span class="cm"># +1 untuk kolom nomor urut</span>
+
+<span class="cm"># Buat template dataset</span>
+dataset = np.zeros(shape=(juml_sampel, juml_kolom), dtype=np.uint16)
+
+<span class="cm"># Isi kolom-0 dengan nomor urut</span>
+<span class="kw">for</span> k <span class="kw">in</span> <span class="op">range</span>(juml_sampel):
+    dataset[k, <span class="nm">0</span>] = k
+
+<span class="cm"># Masukkan nilai piksel tiap gambar ke dataset</span>
+k = <span class="nm">0</span>
+<span class="kw">for</span> i, nama <span class="kw">in</span> <span class="op">enumerate</span>(kelas):
+    <span class="kw">for</span> n <span class="kw">in</span> <span class="op">range</span>(<span class="nm">10</span>):
+        pic = plt.imread(os.path.join(dir_in, nama + <span class="op">str</span>(n) + ext))
+        <span class="kw">if</span> pic.dtype != np.uint8:
+            pic = (pic * <span class="nm">255</span>).astype(np.uint8)
+        temp = pic[:, :, <span class="nm">0</span>] <span class="kw">if</span> <span class="op">len</span>(pic.shape) == <span class="nm">3</span> <span class="kw">else</span> pic
+        dataset[k, <span class="nm">1</span>:] = temp.reshape(row * col)
+        k += <span class="nm">1</span>
+
+<span class="cm"># Simpan dataset ke file .npy</span>
+nama_file = <span class="st">f"inputs_{juml_sampel}_{juml_kolom}.npy"</span>
+np.save(os.path.join(dir_out, nama_file), dataset)
+<span class="op">print</span>(<span class="st">f"Dataset disimpan: {nama_file}  |  Shape: {dataset.shape}"</span>)</pre>
+</div>
+
+<!-- ========== 5. RANDOMIZE DATASET ========== -->
+<div class="section">
+  <div class="section-header">
+    <span class="badge badge-red">05</span>
+    <span class="section-title">Randomize Dataset</span>
+    <span style="color:var(--muted);font-size:.8rem;">— Acak urutan data inputs & labels secara sinkron</span>
+  </div>
+  <pre><span class="kw">import</span> numpy <span class="kw">as</span> np
+<span class="kw">import</span> os
+
+mode_pooling = <span class="op">input</span>(<span class="st">"Mode pooling (average/max): "</span>).lower().strip()
+
+dir_inputs = os.path.join(<span class="st">r"d:\...\02a_Create_Dataset"</span>, mode_pooling)
+dir_labels = os.path.join(<span class="st">r"d:\...\02b_Create_Label"</span>,   mode_pooling)
+dir_out    = os.path.join(<span class="st">r"d:\...\03_Randomize"</span>,       mode_pooling)
+os.makedirs(dir_out, exist_ok=<span class="kw">True</span>)
+
+<span class="cm"># Load inputs dan labels</span>
+inputs = np.load(os.path.join(dir_inputs, <span class="st">"inputs_120_785.npy"</span>))
+labels = np.load(os.path.join(dir_labels, <span class="st">"labels_120_13.npy"</span>))
+
+m, n = np.shape(inputs)   <span class="cm"># 120 baris, 785 kolom</span>
+r, s = np.shape(labels)   <span class="cm"># 120 baris, 13 kolom</span>
+
+<span class="cm"># Buat array indeks [0, 1, 2, ..., 119] lalu acak</span>
+a = <span class="op">list</span>(<span class="op">range</span>(m))
+np.random.shuffle(a)
+
+<span class="op">print</span>(<span class="st">"Indeks sebelum acak :"</span>, <span class="nm">0</span>, <span class="st">"→"</span>, m-<span class="nm">1</span>)
+<span class="op">print</span>(<span class="st">"Indeks setelah acak  :"</span>, a[<span class="nm">0</span>], <span class="st">"→"</span>, a[m-<span class="nm">1</span>])
+
+<span class="cm"># Susun ulang inputs dan labels dengan indeks yang sama</span>
+inputs_random = np.zeros(shape=(m, n), dtype=<span class="op">float</span>)
+labels_random = np.zeros(shape=(r, s), dtype=<span class="op">float</span>)
+
+<span class="kw">for</span> i <span class="kw">in</span> <span class="op">range</span>(m):
+    inputs_random[i, :] = inputs[a[i], :]
+    labels_random[i, :] = labels[a[i], :]
+
+<span class="cm"># Simpan hasil randomisasi</span>
+np.save(os.path.join(dir_out, <span class="st">"random_inputs_120_785.npy"</span>), inputs_random)
+np.save(os.path.join(dir_out, <span class="st">"random_labels_120_13.npy"</span>),  labels_random)
+
+<span class="op">print</span>(<span class="st">"✔ Randomisasi selesai. File disimpan di:"</span>, dir_out)</pre>
+</div>
+
+</body>
+</html>
